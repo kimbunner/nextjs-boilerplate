@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="shopee_orange">#EE4D2D</color>
+    <color name="shopee_orange_light">#FF6B4B</color>
+    <color name="shopee_orange_dark">#CC3D1D</color>
+
+    <!-- Basic Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#333333</color>
+
+    <!-- Status Colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="error_red">#F44336</color>
+    <color name="warning_yellow">#FFC107</color>
+    <color name="info_blue">#2196F3</color>
+
+    <!-- Background Colors -->
+    <color name="background_primary">#FFFFFF</color>
+    <color name="background_secondary">#F5F5F5</color>
+    <color name="background_tertiary">#EEEEEE</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#9E9E9E</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Border Colors -->
+    <color name="border_light">#E0E0E0</color>
+    <color name="border_dark">#BDBDBD</color>
+
+    <!-- Notification Colors -->
+    <color name="notification_color">@color/shopee_orange</color>
+
+    <!-- Rating Colors -->
+    <color name="rating_star">#FFC107</color>
+    <color name="rating_star_border">#DAA520</color>
+
+    <!-- Sale Tag Colors -->
+    <color name="sale_tag_background">#FF5252</color>
+    <color name="sale_tag_text">@color/white</color>
+
+    <!-- Price Colors -->
+    <color name="price_original">#757575</color>
+    <color name="price_discounted">@color/shopee_orange</color>
+
+    <!-- Button Colors -->
+    <color name="button_primary">@color/shopee_orange</color>
+    <color name="button_secondary">@color/white</color>
+    <color name="button_disabled">#BDBDBD</color>
+
+    <!-- Ripple Colors -->
+    <color name="ripple_light">#1F000000</color>
+    <color name="ripple_dark">#33FFFFFF</color>
+
+    <!-- Divider Colors -->
+    <color name="divider">#EEEEEE</color>
+</resources>
